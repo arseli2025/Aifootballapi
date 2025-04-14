@@ -1,0 +1,9 @@
+langchain
+sentence-transformers
+faiss-cpu
+nest-asyncio
+langchain-community
+openai
+flask
+waitress
+langchain_openai
